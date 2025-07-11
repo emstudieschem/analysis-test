@@ -6,7 +6,7 @@ From your home directory, clone *analysis-test* from this repository:
 
 ```bash
 cd ~
-git clone
+git clone https://github.com/emstudieschem/analysis-test.git
 ```
 
 Then navigate to `~/analysis-test`
