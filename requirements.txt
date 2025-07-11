@@ -1,0 +1,4 @@
+IPython
+jupyter
+mdanalysis
+nglview
